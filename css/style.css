@@ -1,0 +1,82 @@
+
+body {
+			font-family: 'Lato', sans-serif;
+		}
+		.Portfolio {
+			width: 1080px;
+			margin: 120px auto;
+			background-color: aliceblue;
+			padding: 60px 50px;
+			border-radius: 15px;
+			box-shadow: 15px 15px 15px 0px #f1f1f1 ;
+			text-align: center;
+		}
+		iframe { margin:0 auto ;
+			border-radius:15px ;
+			box-shadow: 15px 15px 15px 0px #darkorange;
+		 }
+		 h1 {
+		 	margin: 0;
+		 	font-size: 50px;
+		 	text-transform: uppercase;
+		 	letter-spacing: 25px;
+		 	font-weight: 200px;
+		 }
+
+		 p {
+		 	font-size: 22px;
+		 	font-weight: 300px;
+		 	line-height: 1.4;
+		 }
+
+		 .color1 {
+		 	color: darkgray;
+		 }
+
+		 mark {
+		 	background: white;
+		 	color: deeppink;
+		 	display: inline-block;
+		 	border-radius: 18px;
+		 }
+
+		 h2{
+		 	margin: 0;
+		 	color: whitesmoke;
+		 	font-size: 90px;
+		 }
+
+		 .t2 {
+		 	color: #96bf48;
+		 	background-color: white;opacity:10;
+		 	font-family: "Fonseca", sans-serif;
+		 	text-transform: uppercase;
+		 	font-size: 75px;
+
+
+		 }
+
+
+		 .section1{
+		
+		 	text-align: center;
+		 	padding: 400px 0;
+		 	background-image: url(../Images/BG.jpg);
+		 	background-position: bottom;
+		 	background-attachment: fixed;
+		 	background-size:cover ;
+		 }
+
+		 .section2{
+		
+		 	text-align: center;
+		 	padding: 400px 0;
+		 	background-image: url(../Images/BG2.jpg);
+		 	background-position: bottom;
+		 	background-attachment: fixed;
+		 	background-size:cover ;
+		 }
+
+
+
+	</style>
